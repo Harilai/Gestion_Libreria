@@ -6,7 +6,7 @@ public class GestorLibros {
 	
 	private ArrayList<Libros> listaLibros = new ArrayList<>();
 
-	public void agregarLibro(Libros libro) {
+	public void agregarLibro(Libros libro)  {
 		listaLibros.add(libro);
 	}
 
